@@ -23,6 +23,7 @@ For make this project possible, it has been used some existing python projects, 
 * pyttsx3 [(documentation)](https://pyttsx3.readthedocs.io/en/latest/);
 * pyautogui [(documentation)](https://pyautogui.readthedocs.io/en/latest/);
 <br>
+
 ## Updates
 
 For now, we're working on making wednesday sensitive for both portuguese and english.
