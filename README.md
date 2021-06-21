@@ -1,6 +1,6 @@
 # Wednesday
 
-A customize virtual assistent for local file manipulation and web-searching using voice recognition. 
+A customized virtual assistent for local file manipulation and web-searching using voice recognition. 
 <br>
 
 ## The project
