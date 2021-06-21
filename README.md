@@ -9,7 +9,7 @@ The main purpose of this project is provide a virtual assistent highly customiza
 <br>
 Futhermore, the customization can be make by anyone, reguarding their skills at programming, given that the customization isn't at the main 
 code, but at auxiliar .txt files.
-
+<br>
 
 ## Aplied Technologies 
 
@@ -22,6 +22,7 @@ For make this project possible, it has been used some existing python projects, 
 * json [(documentation)](https://docs.python.org/3/library/json.html);
 * pyttsx3 [(documentation)](https://pyttsx3.readthedocs.io/en/latest/);
 * pyautogui [(documentation)](https://pyautogui.readthedocs.io/en/latest/);
+
 <br>
 
 ## Updates
